@@ -1,8 +1,6 @@
-## Hi there 👋
+## Olá, Eu sou Fernando Yepes 👋
 
-# Olá, Eu sou Fernando Yepes 👋
-
-Sou um desenvolvedor Full-Stack, sempre em busca de unir tecnologia e inteligência artificial para criar experiências incríveis e soluções eficientes.
+# Sou um desenvolvedor Full-Stack, sempre em busca de unir tecnologia e inteligência artificial para criar experiências incríveis e soluções eficientes.
 
 - 🔭 Graduando em Análise e Desenvolvimento de Sistemas (ADS).
 - 🌱 No momento estou aprofundando meus estudos em **React, Java, Python e Integração com IA (CrewAI / Gemini API)**.
@@ -46,7 +44,5 @@ Sou um desenvolvedor Full-Stack, sempre em busca de unir tecnologia e inteligên
 ### Projetos
 
 * [Projeto DMAE colaboração faculdade](https://dmae-frontend.onrender.com/)
-* [Aplicativo de Busca de Filmes](https://github.com/fernandoYepes/Aplicativo-Busca-Filmes) *(Módulo 3 +Prati)*
-* [Atividade 5 - Consumo de API com ReactJS e ViaCEP](https://github.com/fernandoYepes/Atividade-5-Consumo-de-API-com-ReactJS)
-* [Sistema Multiagente (CrewAI) com Gemini](https://github.com/fernandoYepes/Sistema-Multiagente-CrewAI)
+* [Aplicativo de Busca de Filmes]([https://github.com/fernandoYepes/Aplicativo-Busca-Filmes](https://github.com/fernandoYepes/2025_-PraTi-Codifica/tree/main/React_Atividade5_API_FernandoYepes)) *(Módulo 3 +Prati)*
 * [Atividade 4: Página de Perfil Pessoal](https://github.com/fernandoYepes/Atividade-4-Pagina-de-Perfil-Pessoal)
