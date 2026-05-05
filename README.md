@@ -45,4 +45,4 @@
 
 * [Projeto DMAE colaboração faculdade](https://dmae-frontend.onrender.com/)
 * [Aplicativo de Busca de Filmes](https://github.com/fernandoYepes/2025_-PraTi-Codifica/tree/main/React_Atividade5_API_FernandoYepes)) *(Módulo 3 +Prati)*
-* [Atividade 4: Página de Perfil Pessoal](https://github.com/fernandoYepes/Atividade-4-Pagina-de-Perfil-Pessoal)
+* [Atividade 4: Página de Perfil Pessoal](https://github.com/fernandoYepes/2025_-PraTi-Codifica/tree/main/Atividade4_PerfilPessoal_FernandoYepes)
